@@ -1,5 +1,3 @@
-
-```markdown
 # Multithreaded HTML Server in Java
 
 ## Description
@@ -41,6 +39,13 @@ This project demonstrates a simple multithreaded server-client architecture in J
 
 ### Prerequisites
 - Java Development Kit (JDK) installed on your system.
+
+### Steps
+
+1. **Compile the Java files:**
+   ```bash
+   javac ReadHtmlFile/Server.java ReadHtmlFile/Client.java
+   ```
 
 ### Steps
 
